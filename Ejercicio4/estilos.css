@@ -1,0 +1,14 @@
+.cards{
+    float: left;
+}
+.formulario{
+    width: 40%;
+    position: absolute;
+    top: 100px;
+    margin:50%;
+}
+.container{
+    position: absolute;
+    top: 100px;
+    left: 10%;
+}
